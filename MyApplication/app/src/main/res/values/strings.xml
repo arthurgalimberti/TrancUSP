@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="email">e-mail</string>
+    <string name="Password">Password</string>
+    <string name="password">senha</string>
+    <string name="cadastro">Cadastrar-se</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="logar">Login</string>
+    <string name="sair">Sair</string>
+</resources>
